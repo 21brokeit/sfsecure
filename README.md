@@ -1,5 +1,5 @@
-# Hello-There-....-Welcome-
-## An adatable **SOFTWARE ENGINNER** and a __CYBER INTELLIGENCE ENTHUSIAST__
+# Hello There Welcome
+## An adatable **SOFTWARE ENGINEER** and a __CYBER INTELLIGENCE ENTHUSIAST__
 ---
 Below are my skills
 ```
