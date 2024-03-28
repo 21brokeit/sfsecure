@@ -1,5 +1,5 @@
 # 💫 About Me:
-Adaptable Software Engineer<br>Interested and practice Cyber Intelligence<br>Rust and Python are my favourites<br>I am a LInux Systems EXtremist<br>Great with Django as Backend<br>A knight coder...<br>Always learning soomething new<br>Reach me on email effkayrl@gmail.com<br>
+Adaptable Software Engineer<br>Interested and practice Cyber Intelligence<br>Rust and Python are my favourites<br>I am a LInux Systems EXtremist<br>Great with Django as Backend<br>A knight coder...<br>Always learning something new<br>Reach me on email effkayrl@gmail.com<br>
 
 
 ## 🌐 Socials:
