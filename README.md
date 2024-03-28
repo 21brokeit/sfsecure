@@ -2,7 +2,8 @@
 ## An adatable **SOFTWARE ENGINNER** and a __CYBER INTELLIGENCE ENTHUSIAST__
 ---
 Below are my skills
-```use std::fmt;
+```
+use std::fmt;
    struct Sfsecure_Skills{
      rust_development:bool,
      python_developent:bool,
@@ -47,3 +48,9 @@ fn main() {
         knight_coder: true,
     };
 ```
+- Rust Software Dev
+- Python Software Dev
+- Linux Systems Extremist
+- Django for Backend Dev
+- Red Team Operator
+- Knight Coder
